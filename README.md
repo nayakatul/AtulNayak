@@ -8,7 +8,8 @@
 <a href="mailto:nayakatul1k999@gmail.com"><img src="https://img.shields.io/badge/Gmail-d3f6e9?style=for-the-badge&labelColor=555555&logo=gmail&logoColor=white" /></a>
 <h3>Hi, I’m Atul! 👋</h3>
 </div>
-<img src="https://user-images.githubusercontent.com/106700986/194652522-72563e9e-1930-4313-b0f1-ddda0d3003d7.gif" alt="DS" align="right" /> I have a passion for bringing people together and I believe that connections are the key to happiness. Whether it's through music, sports, or simply sharing a meal, I believe in building relationships and making memories with those around me.
+
+I have a passion for bringing people together and I believe that connections are the key to happiness. Whether it's through music, sports, or simply sharing a meal, I believe in building relationships and making memories with those around me.
 
 ### My Tech Stack:
 <div align="center">
