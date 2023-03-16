@@ -2,6 +2,8 @@
 
 ![readme-banner](https://user-images.githubusercontent.com/125909401/225775247-108394f3-4e22-4cad-a713-687754460d15.jpg | width=100)
 
+![](https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png | width=100)
+
 <div align="center">
 <a href="https://www.linkedin.com/in/ullal-atul-nayak/"><img src="https://img.shields.io/badge/LinkedIn-d3f6e9?style=for-the-badge&labelColor=555555&logo=linkedin&logoColor=white" /></a>
 <a href="https://nayakatul.github.io/Mywebpage/"><img src="https://img.shields.io/badge/website-d3f6e9?style=for-the-badge&labelColor=555555&logo=About.me&logoColor=white" /></a>
