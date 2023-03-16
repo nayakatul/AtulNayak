@@ -1,6 +1,6 @@
 # AtulNayak
 
-![readme-banner](https://user-images.githubusercontent.com/125909401/225773031-07e240d6-4169-40bc-ab08-bfe3c8d68c83.jpg)
+![readme-banner](https://user-images.githubusercontent.com/125909401/225773031-07e240d6-4169-40bc-ab08-bfe3c8d68c83.jpg){width="800px" height="400px"}
 
 <div align="center">
 <a href="https://www.linkedin.com/in/ullal-atul-nayak/"><img src="https://img.shields.io/badge/LinkedIn-d3f6e9?style=for-the-badge&labelColor=555555&logo=linkedin&logoColor=white" /></a>
