@@ -1,6 +1,10 @@
 # AtulNayak
+<p align=”center”>
 
-![readme-banner](https://user-images.githubusercontent.com/125909401/225773031-07e240d6-4169-40bc-ab08-bfe3c8d68c83.jpg){width="800px" height="300px"}
+<img width=”200" height=”200" src=["https://user-images.blahblah/75753187/123358567-aac7b900-d539-11eb-8275-0b380264bb4c.png"] alt="my banner”>
+
+</p>
+
 
 <div align="center">
 <a href="https://www.linkedin.com/in/ullal-atul-nayak/"><img src="https://img.shields.io/badge/LinkedIn-d3f6e9?style=for-the-badge&labelColor=555555&logo=linkedin&logoColor=white" /></a>
