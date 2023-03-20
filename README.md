@@ -10,7 +10,7 @@
 <h3>Hi, I’m Atul! 👋</h3>
 </div>
 
-I have a passion for bringing people together and I believe that connections are the key to happiness. Whether it's through music, sports, or simply sharing a meal, I believe in building relationships and making memories with those around me.
+Recently, I delved into the world of machine learning, enjoying the challenge of creating and deciphering models. Feel free to explore my projects that showcase my ML adventures. Enjoy!
 
 ### My Tech Stack:
 <div align="center">
