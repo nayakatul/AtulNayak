@@ -7,7 +7,7 @@
 <a href="https://www.linkedin.com/in/ullal-atul-nayak/"><img src="https://img.shields.io/badge/LinkedIn-d3f6e9?style=for-the-badge&labelColor=555555&logo=linkedin&logoColor=white" /></a>
 <a href="https://nayakatul.github.io/Mywebpage/"><img src="https://img.shields.io/badge/website-d3f6e9?style=for-the-badge&labelColor=555555&logo=About.me&logoColor=white" /></a>
 <a href="mailto:nayakatul1k999@gmail.com"><img src="https://img.shields.io/badge/Gmail-d3f6e9?style=for-the-badge&labelColor=555555&logo=gmail&logoColor=white" /></a>
-<h3>Hi, I’m Atul! 🏻‍♂️👋</h3>
+<h3>Hi, I’m Atul!👋</h3>
 </div>
 
 Recently, I delved into the world of machine learning, enjoying the challenge of creating and deciphering models. Feel free to explore my projects that showcase my ML adventures. Enjoy!
