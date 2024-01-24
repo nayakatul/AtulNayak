@@ -1,4 +1,4 @@
-# UllalAtulNayak
+# Ullal Atul Nayak
 
 ![readme-banner](https://user-images.githubusercontent.com/125909401/225775247-108394f3-4e22-4cad-a713-687754460d15.jpg)
 
@@ -7,7 +7,7 @@
 <a href="https://www.linkedin.com/in/ullal-atul-nayak/"><img src="https://img.shields.io/badge/LinkedIn-d3f6e9?style=for-the-badge&labelColor=555555&logo=linkedin&logoColor=white" /></a>
 <a href="https://nayakatul.github.io/Mywebpage/"><img src="https://img.shields.io/badge/website-d3f6e9?style=for-the-badge&labelColor=555555&logo=About.me&logoColor=white" /></a>
 <a href="mailto:nayakatul1k999@gmail.com"><img src="https://img.shields.io/badge/Gmail-d3f6e9?style=for-the-badge&labelColor=555555&logo=gmail&logoColor=white" /></a>
-<h3>Hi, I’m Atul!👋</h3>
+<h2>Hi, I’m Atul!👋</h2>
 </div>
 
 I am a passionate Data Scientist with strong expertise in predictive modeling, data wrangling, and data mining algorithms. I am excited about developing and deploying innovative solutions to complex business challenges. I have 2.5 years of work experience as a Technology Consultant, where I engaged with clients to solve critical roadblocks and recommended data-driven solutions by analyzing complex, large datasets and creating insightful visualizations.
@@ -18,10 +18,11 @@ In my current role as a part-time Data Analyst in the Information Technology Ser
 
 I have an interest for learning new skills and technologies and am proficient in :
 
-• Languages: Python (Scikit learn, TensorFlow, PyTorch), R, SQL, NoSQL, Cypher, Spark, Scala
-• Tools: Tableau, SPSS, Dataiku, Redshift, Teradata, Airflow, ETL, Kafka, Docker, CI/CD, Git
-• Databases: Oracle SQL, MySQL, Microsoft SQL, MongoDB, Postgres, Redis, Couchbase
-• Cloud Technologies: AWS, Snowflake, GCP, Terraform, Kubernetes (OpenShift 3 & 4)
+
+- Languages: Python (Scikit learn, TensorFlow, PyTorch), R, SQL, NoSQL, Cypher, Spark, Scala
+- Tools: Tableau, SPSS, Dataiku, Redshift, Teradata, Airflow, ETL, Kafka, Docker, CI/CD, Git
+- Databases: Oracle SQL, MySQL, Microsoft SQL, MongoDB, Postgres, Redis, Couchbase
+- Cloud Technologies: AWS, Snowflake, GCP, Terraform, Kubernetes (OpenShift 3 & 4)
 
 I am a curious thinker, collaborative team player, and adept problem solver. I believe that every problem can be solved by asking the right questions and using technical expertise to find solutions. My approach is consistently user-centric, with keen empathy for the needs of technical and data-driven end users.
 
