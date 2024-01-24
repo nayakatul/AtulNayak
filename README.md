@@ -10,7 +10,21 @@
 <h3>Hi, I’m Atul!👋</h3>
 </div>
 
-Recently, I delved into the world of machine learning, enjoying the challenge of creating and deciphering models. Feel free to explore my projects that showcase my ML adventures. Enjoy!
+I am a passionate Data Scientist with strong expertise in predictive modeling, data wrangling, and data mining algorithms. I am excited about developing and deploying innovative solutions to complex business challenges. I have 2.5 years of work experience as a Technology Consultant, where I engaged with clients to solve critical roadblocks and recommended data-driven solutions by analyzing complex, large datasets and creating insightful visualizations.
+
+I am currently pursuing a Master of Science in Engineering Management with a specialization in Data Science at Northeastern University, Boston. This program primarily focuses on Data Science and machine learning concepts and is supplemented by courses in product design and business strategy. This unique blend of technical knowledge and business understanding enables me to tackle problems from both a strategic and a hands-on technical perspective, especially in building and deploying ML models. 
+
+In my current role as a part-time Data Analyst in the Information Technology Services department at Northeastern University, I have made significant contributions to reducing on-campus network downtime. I achieved this by applying data analysis and visualization techniques to identify trends and categorize IT incidents based on their impact levels, which enabled a more strategic issue resolution approach.
+
+I have an interest for learning new skills and technologies and am proficient in :
+
+• Languages: Python (Scikit learn, TensorFlow, PyTorch), R, SQL, NoSQL, Cypher, Spark, Scala
+• Tools: Tableau, SPSS, Dataiku, Redshift, Teradata, Airflow, ETL, Kafka, Docker, CI/CD, Git
+• Databases: Oracle SQL, MySQL, Microsoft SQL, MongoDB, Postgres, Redis, Couchbase
+• Cloud Technologies: AWS, Snowflake, GCP, Terraform, Kubernetes (OpenShift 3 & 4)
+
+I am a curious thinker, collaborative team player, and adept problem solver. I believe that every problem can be solved by asking the right questions and using technical expertise to find solutions. My approach is consistently user-centric, with keen empathy for the needs of technical and data-driven end users.
+
 
 ### My Tech Stack:
 <div align="center">
