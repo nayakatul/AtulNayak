@@ -10,21 +10,18 @@
 <h2>Hi, I’m Atul!👋</h2>
 </div>
 
-I am a passionate Data Scientist with strong expertise in predictive modeling, data wrangling, and data mining algorithms. I am excited about developing and deploying innovative solutions to complex business challenges. I have 2.5 years of work experience as a Technology Consultant, where I engaged with clients to solve critical roadblocks and recommended data-driven solutions by analyzing complex, large datasets and creating insightful visualizations.
+I am a passionate Data Engineer with a strong background in building scalable data pipelines, data warehousing, data visualization, and big data technologies. I am truly excited about designing and implementing innovative data solutions to address business challenges. My professional journey includes 2.5 years as a Technology Consultant, where I partnered with clients to overcome critical challenges, delivered data-centric solutions by analyzing complex, large datasets, and developed insightful visualizations.
 
-I am currently pursuing a Master of Science in Engineering Management with a specialization in Data Science at Northeastern University, Boston. This program primarily focuses on Data Science and machine learning concepts and is supplemented by courses in product design and business strategy. This unique blend of technical knowledge and business understanding enables me to tackle problems from both a strategic and a hands-on technical perspective, especially in building and deploying ML models. 
-
-In my current role as a part-time Data Analyst in the Information Technology Services department at Northeastern University, I have made significant contributions to reducing on-campus network downtime. I achieved this by applying data analysis and visualization techniques to identify trends and categorize IT incidents based on their impact levels, which enabled a more strategic issue resolution approach.
+I am currently pursuing a Master of Science in Engineering Management with a specialization in Data Science at Northeastern University, Boston. This program focuses primarily on Data Science Data Engineering and machine learning concepts, supplemented by courses in product design and business strategy. This unique blend of technical knowledge and business understanding enables me to tackle problems from both strategic and hands-on technical perspectives, particularly in the building and deploying of ML models and data pipelines.
 
 I have an interest for learning new skills and technologies and am proficient in :
 
+-  Languages: Python (Pandas, Scikit learn, TensorFlow, PyTorch), SQL, NoSQL, Matlab, Cypher, PySpark, ETL
+-  Tools: Apache Airflow, Apache Spark, AWS Redshift, AWS Glue, AWS Athena, Tableau, GCP,  Docker, Git, Dataiku, Jupyter
+-  Databases: MySQL, Microsoft SQL, MongoDB, PostgreSQL
 
-- Languages: Python (Scikit learn, TensorFlow, PyTorch), R, SQL, NoSQL, Cypher, Spark, Scala
-- Tools: Tableau, SPSS, Dataiku, Redshift, Teradata, Airflow, ETL, Kafka, Docker, CI/CD, Git
-- Databases: Oracle SQL, MySQL, Microsoft SQL, MongoDB, Postgres, Redis, Couchbase
-- Cloud Technologies: AWS, Snowflake, GCP, Terraform, Kubernetes (OpenShift 3 & 4)
 
-I am a curious thinker, collaborative team player, and adept problem solver. I believe that every problem can be solved by asking the right questions and using technical expertise to find solutions. My approach is consistently user-centric, with keen empathy for the needs of technical and data-driven end users.
+I am a strong advocate for leveraging technology to address critical issues, enhance efficiency, and promote collaboration across teams.
 
 
 ### My Tech Stack:
