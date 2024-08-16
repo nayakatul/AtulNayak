@@ -10,7 +10,7 @@
 <h2>Hi, I’m Atul!👋</h2>
 </div>
 
-I am a passionate Data Engineer with a strong background in building scalable data pipelines, data warehousing, data visualization, and big data technologies. I am truly excited about designing and implementing innovative data solutions to address business challenges. My professional journey includes 2.5 years at Hewlett Packard Enterprise (HPE), where I developed ETL pipelines using Python, SQL, AWS Redshift, and Apache Airflow. My work focused on analyzing the effectiveness of services provided to our Network as a Service (NaaS) clients and measuring client satisfaction. Additionally, I extensively used SQL for data analysis.
+Results-driven Data Engineer with 3 years of experience in designing, building, and maintaining scalable data infrastructure. AWS Solutions Architect - Associate certified, with expertise in data warehousing, ETL processes, and big data technologies. My professional journey includes 2.5 years at Hewlett Packard Enterprise (HPE), where I developed ETL pipelines using Python, SQL, AWS Redshift, and Apache Airflow. My work focused on analyzing the effectiveness of services provided to our Network as a Service (NaaS) clients and measuring client satisfaction. Additionally, I extensively used SQL for data analysis.
 
 I have an interest for learning new skills and technologies and am proficient in :
 
