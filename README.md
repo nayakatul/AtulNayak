@@ -7,7 +7,7 @@
 <a href="https://www.linkedin.com/in/ullal-atul-nayak/"><img src="https://img.shields.io/badge/LinkedIn-d3f6e9?style=for-the-badge&labelColor=555555&logo=linkedin&logoColor=white" /></a>
 <!-- <a href="https://sites.google.com/view/ullalatulnayak/"><img src="https://img.shields.io/badge/website-d3f6e9?style=for-the-badge&labelColor=555555&logo=About.me&logoColor=white" /></a> -->
 <a href="mailto:atulnayakwork@gmail.com"><img src="https://img.shields.io/badge/Gmail-d3f6e9?style=for-the-badge&labelColor=555555&logo=gmail&logoColor=white" /></a>
-<h2>Hi, I’m Atul! 😎/h2>
+<h2>Hi, I’m Atul! 😎 </h2>
 </div>
 
 Results-driven Data Engineer with 3 years of experience in designing, building, and maintaining scalable data infrastructure. AWS Solutions Architect - Associate certified, with expertise in data warehousing, ETL processes, and big data technologies. My professional journey includes 2.5 years at Hewlett Packard Enterprise (HPE), where I developed ETL pipelines using Python, SQL, AWS Redshift, and Apache Airflow. My work focused on analyzing the effectiveness of services provided to our Network as a Service (NaaS) clients and measuring client satisfaction. Additionally, I extensively used SQL for data analysis.
