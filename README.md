@@ -10,16 +10,14 @@
 <h2>Hi, I’m Atul!👋</h2>
 </div>
 
-I am a passionate Data Engineer with a strong background in building scalable data pipelines, data warehousing, data visualization, and big data technologies. I am truly excited about designing and implementing innovative data solutions to address business challenges. My professional journey includes 2.5 years as a Technology Consultant, where I partnered with clients to overcome critical challenges, delivered data-centric solutions by analyzing complex, large datasets, and developed insightful visualizations.
-
-I am currently pursuing a Master of Science in Engineering Management with a specialization in Data Science at Northeastern University, Boston. This program focuses primarily on Data Science Data Engineering and machine learning concepts, supplemented by courses in product design and business strategy. This unique blend of technical knowledge and business understanding enables me to tackle problems from both strategic and hands-on technical perspectives, particularly in the building and deploying of ML models and data pipelines.
+I am a passionate Data Engineer with a strong background in building scalable data pipelines, data warehousing, data visualization, and big data technologies. I am truly excited about designing and implementing innovative data solutions to address business challenges. My professional journey includes 2.5 years at Hewlett Packard Enterprise (HPE), where I developed ETL pipelines using Python, SQL, AWS Redshift, and Apache Airflow. My work focused on analyzing the effectiveness of services provided to our Network as a Service (NaaS) clients and measuring client satisfaction. Additionally, I extensively used SQL for data analysis.
 
 I have an interest for learning new skills and technologies and am proficient in :
 
--  Languages: Python (Pandas, Scikit learn, TensorFlow, PyTorch), SQL, NoSQL, Matlab, Cypher, PySpark, ETL
--  Tools: Apache Airflow, Apache Spark, AWS Redshift, AWS Glue, AWS Athena, Tableau, GCP,  Docker, Git, Dataiku, Jupyter
--  Databases: MySQL, Microsoft SQL, MongoDB, PostgreSQL
-
+-  Languages: Python (Pandas, Scikit learn), SQL, NoSQL, Matlab, Cypher, PySpark
+-  Tools: Apache Airflow, Apache Spark, AWS Redshift, AWS Glue, AWS Athena, Tableau, GCP,  Docker, Git
+-  Databases: MySQL, Microsoft SQL, MongoDB, PostgreSQL, Amazon Redshift, DynamoDB
+-  Skills: ETL/ELT, Data Analysis, Data Visualization, AWS Cloud, Spark, Predictive modeling, Time Series Analysis
 
 I am a strong advocate for leveraging technology to address critical issues, enhance efficiency, and promote collaboration across teams.
 
