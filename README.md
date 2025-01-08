@@ -10,14 +10,11 @@
 <h2>Hi, I’m Atul! 😎 </h2>
 </div>
 
-Results-driven Data Engineer with 3 years of experience in designing, building, and maintaining scalable data infrastructure. AWS Solutions Architect - Associate certified, with expertise in data warehousing, ETL processes, and big data technologies. My professional journey includes 2.5 years at Hewlett Packard Enterprise (HPE), where I developed ETL pipelines using Python, SQL, AWS Redshift, and Apache Airflow. My work focused on analyzing the effectiveness of services provided to our Network as a Service (NaaS) clients and measuring client satisfaction. Additionally, I extensively used SQL for data analysis.
+I am a Data Scientist with 3+ years of experience in developing ML models, real-time ETL pipelines, and interactive dashboards to solve complex business challenges. At Hewlett Packard Enterprise (HPE), I built scalable data solutions, including predictive models, time series analysis, and anomaly detection, driving measurable improvements in operational efficiency and business outcomes.
 
-I have an interest for learning new skills and technologies and am proficient in :
+I hold a Master of Science in Engineering Management with a specialization in Data from Northeastern University, Boston. This program integrated technical expertise in Data science, data engineering and MLOps with strategic business knowledge, equipping me to design data solutions that not only meet business needs but also drive innovation.
 
--  Languages: Python (Pandas, Scikit learn), SQL, NoSQL, Matlab, Cypher, PySpark
--  Tools: Apache Airflow, Apache Spark, AWS Redshift, AWS Glue, AWS Athena, Tableau, GCP,  Docker, Git
--  Databases: MySQL, Microsoft SQL, MongoDB, PostgreSQL, Amazon Redshift, DynamoDB
--  Skills: ETL/ELT, Data Analysis, Data Visualization, AWS Cloud, Spark, Predictive modeling, Time Series Analysis
+I am also an AWS Certified Solutions Architect Associate, which has given me a strong understanding of how different AWS services can be used for data engineering and other purposes. This knowledge helps me design better cloud-based solutions that are efficient and tailored to the specific needs of the project.
 
 I am a strong advocate for leveraging technology to address critical issues, enhance efficiency, and promote collaboration across teams.
 
