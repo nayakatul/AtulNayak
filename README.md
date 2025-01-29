@@ -10,7 +10,7 @@
 <h2>Hi, I’m Atul! 😎 </h2>
 </div>
 
-I am a Data Scientist with 3+ years of experience in developing ML models, real-time ETL pipelines, and interactive dashboards to solve complex business challenges. At Hewlett Packard Enterprise (HPE), I built scalable data solutions, including predictive models, time series analysis, and anomaly detection, driving measurable improvements in operational efficiency and business outcomes.
+I am a Data professional with 3+ years of experience in developing real-time ETL pipelines, ML models, and interactive dashboards to solve complex business challenges. 
 
 I hold a Master of Science in Engineering Management with a specialization in Data from Northeastern University, Boston. This program integrated technical expertise in Data science, data engineering and MLOps with strategic business knowledge, equipping me to design data solutions that not only meet business needs but also drive innovation.
 
